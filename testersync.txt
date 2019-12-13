@@ -1,0 +1,1 @@
+rquivo para teste da conexão com o rsync
